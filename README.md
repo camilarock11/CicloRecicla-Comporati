@@ -1,0 +1,2 @@
+# CicloRecicla-Comporati
+Uma plataforma que consiste em uma forma de orientar os consumidores a respeito de que devem realizar o descarte de seus leitores os QR Code presentes nas embalagens e, como incentivo, oferecer a eles cupons de desconto. O projeto cria um ambiente mais sustentável, fazendo com que os mercados tenham a intenção de oferecer os produtos que possuem o QR Code já que os cupons de compra podem gerar a fidelização da clientela. Além disso, a ideia ser mais amigável ecologicamente também projeto.
